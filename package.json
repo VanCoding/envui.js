@@ -1,5 +1,5 @@
 {
-  "name": "envUI.js",
+  "name": "envui.js",
   "version": "0.0.1",
   "description": "An Adobe-style UI-library for building user interfaces like in photoshop, fireworks, visual studio etc.",
   "main": "./lib/server.js",
