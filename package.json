@@ -9,6 +9,7 @@
   "license": "GPL",
   "dependencies":{
     "express":"*",
-    "less":"*"
+    "less":"*",
+    "domlib.js":"*"
   }
 }
