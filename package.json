@@ -8,7 +8,6 @@
   "author": "Patrik Stutz",
   "license": "GPL",
   "dependencies":{
-    "express":"*",
     "less":"*",
     "domlib.js":"*"
   }
